@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joost/Projects/Android/IDH11/ToDoList/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/joost/Projects/Android/IDH11/ToDoList/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_e55c1fd11d69b7b01151df61b2624c9f7b1423ed.jar" />
+    </item>
+
+</items>
